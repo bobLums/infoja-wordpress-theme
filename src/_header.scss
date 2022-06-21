@@ -1,0 +1,23 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'vars';
+
+.navbar
+{
+	background-color: $grey !important;
+}
+
+.sideNav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sideNavbig
+{
+	display: block;
+}
+
+.sideNavsml
+{
+	display: none;
+}

@@ -1,0 +1,23 @@
+@import 'vars';
+
+@media (max-width: 768px) 
+{	
+	.sideNavbig
+	{
+		display: none;
+	}
+
+	.sideNavsml
+	{
+		display: block;
+	}
+}
+
+@media (max-width: 576px) 
+{	
+	.front-img
+	{
+		width: 75% !important;
+	}
+}
+
